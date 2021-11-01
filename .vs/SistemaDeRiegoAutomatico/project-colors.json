@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "08163808-6e2e-42cc-9d09-667b6a14c9bc": {
+      "ProjectGuid": "08163808-6e2e-42cc-9d09-667b6a14c9bc",
+      "DisplayName": "SistemaDeRiegoAutomatico",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Archivos varios",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
